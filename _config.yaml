@@ -1,0 +1,10 @@
+title: Phil Romig
+description: Associate Teaching Professor
+remote_theme: ankitsultana/researcher@gem
+
+# Navigation links
+nav:
+  - name: "About"
+    link: "/"
+  - name: "Contact"
+    link: "/contact"
