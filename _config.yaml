@@ -1,19 +1,18 @@
-title: Phil Romig
-description: Associate Teaching Professor
-remote_theme: ankitsultana/researcher@gem
-
-url: "https://promig3.github.io/"
+# Site Settings
+title: Your Name
+description: Academic Portfolio
+url: "https://promig3.github.io"
 baseurl: ""
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+# Theme Configuration
+remote_theme: ankitsultana/researcher@gem
 
-sass:
-    style: compressed
-    sass_dir: _sass
+# Plugins list required by GitHub Pages for remote themes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
-# The 'nav:' section must look EXACTLY like this:
+# Navigation
 nav:
   - name: "About"
     link: "/"
