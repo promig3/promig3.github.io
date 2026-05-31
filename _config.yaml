@@ -7,6 +7,9 @@ baseurl: ""
 # Theme Configuration
 remote_theme: ankitsultana/researcher@gem
 
+sass:
+  sass_dir: _sass
+
 # Plugins list required by GitHub Pages for remote themes
 plugins:
   - jekyll-remote-theme
