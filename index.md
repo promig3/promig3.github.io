@@ -3,11 +3,12 @@ layout: default
 title: About Me
 ---
 
-# Welcome to my academic homepage
+# Quick Bio
 
-<img width="100" height="200" class="profile-picture" src="promig-3-scaled.jpg">
-I am a researcher studying astrophysics... 
+<img class="profile-picture" src="promig-3-scaled.jpg">
+
 
 ## Education
-* **Ph.D. in Physics** - Stanford University (2026)
-* **B.S. in Physics** - MIT (2022)
+* **Ph.D. in Computer Science** -  University of Nebraska (1999)
+* **M.S. in Computer Science** - University of Nebraska (1993)
+* **B.A. in Religion** - Nebrasak Wesleyan University (1986)
