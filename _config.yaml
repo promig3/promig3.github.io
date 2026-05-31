@@ -13,10 +13,9 @@ sass:
     style: compressed
     sass_dir: _sass
 
+# The 'nav:' section must look EXACTLY like this:
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+  - name: "About"
+    link: "/"
+  - name: "Contact"
+    link: "/contact"
