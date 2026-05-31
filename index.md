@@ -5,7 +5,7 @@ title: About Me
 
 # Welcome to my academic homepage
 
-<img class="profile-picture" src="promig-3-scaled.jpg">
+<img width="42" height="42" class="profile-picture" src="promig-3-scaled.jpg">
 I am a researcher studying astrophysics... 
 
 ## Education
